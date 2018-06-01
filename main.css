@@ -1,0 +1,8 @@
+@page {
+        size: A5 !important;
+        /* size: landscape; */
+         margin-top:0px   
+    }
+    .table {
+        border: none !important;
+    }
